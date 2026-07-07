@@ -212,7 +212,7 @@ The application preprocesses the inputs using the saved encoder and predicts the
 
 **Mounika Golla**
 
-B.Tech in Artificial Intelligence & Machine Learning
+B.Tech in Artificial Intelligence & Data Science
 
 ---
 

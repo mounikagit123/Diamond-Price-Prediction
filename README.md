@@ -210,7 +210,7 @@ The application preprocesses the inputs using the saved encoder and predicts the
 
 ## 👩‍💻 Author
 
-**Lasya Reddy**
+**Mounika Golla**
 
 B.Tech in Artificial Intelligence & Machine Learning
 
